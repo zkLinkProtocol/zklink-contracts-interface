@@ -1,0 +1,14 @@
+{
+  "name": "zklink-contracts-interface",
+  "version": "1.0.2",
+  "description": "zklink contracts interface",
+  "keywords": [
+    "zklink",
+    "zkrollup"
+  ],
+  "author": "dev@zklink.org",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.2"
+  }
+}
